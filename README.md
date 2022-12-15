@@ -1,16 +1,7 @@
-# pr4_3_skyscrapper
+# Resume
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701720/207858312-0eb909ad-874e-4070-adc7-2d08f7ad801b.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207858321-c83dbece-c081-4f73-bb1e-6e9a5fb02938.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207858323-b67cdf2b-a74a-4c38-8d33-afec903d3fee.png" height = 500 width = 250>
